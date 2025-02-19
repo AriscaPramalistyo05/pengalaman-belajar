@@ -1,8 +1,7 @@
-daftar-biodata-peserta DBS Foundation Coding Camp
+Pengalaman Belajar di Dicoding
 ==
-Daftar biodata siswa dan mahasiswa Coding Camp
---
-*Berikut adalah biodata peserta Coding Camp yang terdiri dari 3 angkatan.*
-- Angkatan 2023
-- Angkatan 2024
-- Angkatan 2025
+20 Februari 2025
+Belajar Dasar Git dengan GitHub. (Progres 31%)
+* Pengantar Dasar Git
+* Mengenal Perintah Dasar Git secara Lebih Dalam
+* Mengenal Git Workflow
