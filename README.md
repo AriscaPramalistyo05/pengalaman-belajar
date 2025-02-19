@@ -6,3 +6,7 @@ Belajar Dasar Git dengan GitHub. (Progres 31%)
 * Git dab GitHub
 * Dasar Git
   
+22 Februari 2025
+Belajar Dasar Git dengan GitHub. (Progres 51%)
+* Studi Kasus Pengalaman Belajar
+* Git Branches
